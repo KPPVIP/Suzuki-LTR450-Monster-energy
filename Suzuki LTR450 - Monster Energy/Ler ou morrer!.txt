@@ -1,0 +1,15 @@
+By: RkrdM
+
+Blog: http://gtamxmodssa.blogspot.pt/
+Facebook: https://www.facebook.com/GTAModsSA
+Facebook2:https://www.facebook.com/ModsGrandTheftAutoV
+Youtube: https://www.youtube.com/user/GTAModsSA
+
+Tutoriais: https://www.youtube.com/playlist?list=PLahog7jkmn2YJZteH0R6F8_YQnH-A_Qj6
+
+=================================================================================================
+
+-------HOW TO INSTALL------- 
+
+OpenIV > Grand Theft Auto V\x64e.rpf\levels\gta5\vehicles.rpf\ 
+*Replace files* 
